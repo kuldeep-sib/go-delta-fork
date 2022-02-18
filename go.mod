@@ -1,4 +1,4 @@
-module github.com/DTSL/go-delta-sib
+module github.com/kuldeep-sib/go-delta-sib
 
 go 1.16
 

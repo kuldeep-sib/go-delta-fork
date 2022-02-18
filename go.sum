@@ -1,0 +1,4 @@
+github.com/balacode/zr v1.1.0 h1:3UsFdsRjPd6inBA1Nr9fAVHNJPor0x1K4RYArFmuzWE=
+github.com/balacode/zr v1.1.0/go.mod h1:Gek772GtTXR/nDElnIYqB8kHcg3nKhjzTt1yZNUVnmA=
+github.com/golang/snappy v0.0.4 h1:yAGX7huGHXlcLOEtBnF4w7FQwA26wojNCwOYAEhLjQM=
+github.com/golang/snappy v0.0.4/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=

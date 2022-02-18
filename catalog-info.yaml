@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: go-delta-sib
+  title: go-delta-sib
+  description: Custom library for generating delta using s2 compression
+  annotations:
+    github.com/project-slug: dtsl/go-delta-sib
+  labels:
+    generated: empty
+spec:
+  type: service
+  lifecycle: production
+  owner: core
